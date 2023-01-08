@@ -1,2 +1,2 @@
 yarn install
-2yarn start
+yarn start

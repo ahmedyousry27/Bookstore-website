@@ -1,3 +1,2 @@
-# Bookstore-website
-usename: admin
-password: admin
+yarn install
+yarn start
